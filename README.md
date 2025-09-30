@@ -56,9 +56,7 @@ mvn spring-boot:run
 
 
 Trigger the Producer
-Call the REST endpoint (e.g., using curl or Postman):
 
-curl http://localhost:8080/produce
 
 
 See the Consumer Output
